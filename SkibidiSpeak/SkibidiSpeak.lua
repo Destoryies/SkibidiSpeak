@@ -2,11 +2,11 @@ local skibidiPhrases = {
     "Skibidi",
     "Gigachad",
     "Rizz",
-    "On god",
-    "For real",
-    "No cap",
-    "No cream",
-    "On the dead homies",
+    "On God",
+    "For Real",
+    "No Cap",
+    "No Cream",
+    "On The Dead Homies",
     "Gooning",
     "Mewing",
     "Edging",
@@ -15,14 +15,9 @@ local skibidiPhrases = {
     "Glizzy",
     "Gyatt",
     "GOAT",
-    "Karen",
     "Lit",
     "Mew",
     "Mid",
-    "OK Boomer",
-    "Oof",
-    "Opp",
-    "Pookie",
     "Ratio",
     "Red Flag",
     "Salty",
@@ -32,11 +27,8 @@ local skibidiPhrases = {
     "Slay",
     "Sus",
     "Tweaking",
-    "Valid",
-    "Vibe",
     "Yeet",
     "Zesty",
-    "Baised",
 }
 
 
@@ -120,6 +112,8 @@ function SendChatMessage(msg, chatType, language, channel)
     if msg == "GHI2ChannelReadyCheck" then
         return
     end
+    
+    -- Apply Skibidi functionality if applicable
     if ShouldApplySkibidi(chatType) and ShouldApplySkibidiToChannel(chatType, channel) then
         wipe(hyperlinks)
         local s = msg:gsub("|c.-|r", ReplaceLink)
@@ -153,8 +147,8 @@ function SendChatMessage(msg, chatType, language, channel)
 end
  
 local EnabledMsg = {
-    [true] = "|cffADFF2FEnabled|r",
-    [false] = "|cffFF2424Disabled|r",
+    [true] = "|cffADFF2FEnabled On God No Cap|r",
+    [false] = "|cffFF2424Disabled Cringe And Not Very Rizz|r",
 }
  
 local function PrintMessage(msg)
@@ -162,7 +156,7 @@ local function PrintMessage(msg)
 end
  
 SLASH_SKIBIDISPEAK1 = "/skibidi"
-SLASH_SKIBIDISPEAK2 = "/skibidiSpeak"
+SLASH_SKIBIDISPEAK2 = "/skibidispeak"
  
 local function tablefind(tab, el)
     for index, value in pairs(tab) do
