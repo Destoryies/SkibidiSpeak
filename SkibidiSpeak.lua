@@ -162,7 +162,7 @@ local function PrintMessage(msg)
 end
  
 SLASH_SKIBIDISPEAK1 = "/skibidi"
-SLASH_SKIBIDISPEAK2 = "/skibidipeak"
+SLASH_SKIBIDISPEAK2 = "/skibidiSpeak"
  
 local function tablefind(tab, el)
     for index, value in pairs(tab) do
