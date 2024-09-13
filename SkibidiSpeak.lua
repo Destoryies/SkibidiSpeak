@@ -2,11 +2,11 @@ local skibidiPhrases = {
     "Skibidi",
     "Gigachad",
     "Rizz",
-    "On God",
-    "For Real",
-    "No Cap",
-    "No Cream",
-    "On The Dead Homies",
+    "On god",
+    "For real",
+    "No cap",
+    "No cream",
+    "On the dead homies",
     "Gooning",
     "Mewing",
     "Edging",
@@ -36,6 +36,7 @@ local skibidiPhrases = {
     "Vibe",
     "Yeet",
     "Zesty",
+    "Baised",
 }
 
 
