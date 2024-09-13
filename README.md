@@ -1,4 +1,4 @@
-# Skibidi Rizz Addon 🎶✨  
+# SkibidiSpeak Addon 🎶✨  
 **Version:** 1.0.0  
 **Author:** Destroyies  
 **Game:** World of Warcraft  
@@ -19,13 +19,13 @@ Skibidi Rizz Addon is a fun and dynamic World of Warcraft addon that rizzifies y
 ## Usage  
 
 ### Basic Commands  
-- `/Skibidispeak` – Turn on/off Rizz mode.  
+- `/Skibidispeak` – Turn on/off Skibidi mode.  
 
 ### Example Chat Transformations  
 
 **Normal Chat:**  
 Hey, let's head to the dungeon.
 
-**With Rizz Addon:**  
+**With SkibidiSpeak Addon:**  
 Yo, we finna hit that dungeon, no cap. Let’s go, my drilla!
 
