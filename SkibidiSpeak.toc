@@ -1,0 +1,11 @@
+## Interface: 100007
+## Title: SkibidiSpeak
+## Notes: A WoW addon that replaces chat messages with Skibidi-themed phrases.
+## Author: YourName
+## Version: 1.0
+## Category: Chat
+## SavedVariables: SkibidiSpeakDB
+## SavedVariablesPerCharacter: SkibidiSpeakDBPerChar
+ 
+SkibidiSpeak.lua
+ 
