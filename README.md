@@ -1,7 +1,6 @@
 # SkibidiSpeak Addon 🎶✨  
 **Version:** 1.0.0  
 **Author:** Destroyies  
-**Game:** World of Warcraft  
 
 ## Overview  
 Skibidi Rizz Addon is a fun and dynamic World of Warcraft addon that rizzifies your in-game chat with the latest slang and Skibidi references. With phrases like Gigachad, Rizz, No Cap, and Skibidi bop bop yes yes, your chat will never be the same again. Whether you're grinding, raiding, or chilling with your guild, this addon guarantees your chat will always be lit 🔥.
